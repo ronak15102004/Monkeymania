@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.23033b34.css",
+    "main.css": "/static/css/main.de151779.css",
     "main.js": "/static/js/main.2d945f8a.js",
     "static/media/fanbg.webp": "/static/media/fanbg.eb7c4774e758e6bdbc8c.webp",
     "static/media/starsbg2.webp": "/static/media/starsbg2.b681e712fd8b81136262.webp",
@@ -12,7 +12,7 @@
     "static/media/telegram.svg": "/static/media/telegram.c7b359a0105dea5ce0362d65465c4633.svg"
   },
   "entrypoints": [
-    "static/css/main.23033b34.css",
+    "static/css/main.de151779.css",
     "static/js/main.2d945f8a.js"
   ]
 }
